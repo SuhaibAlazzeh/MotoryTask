@@ -1,0 +1,6 @@
+framework module Pods_MotoryTask {
+  umbrella header "Pods-MotoryTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
